@@ -32,7 +32,7 @@ public class ProductsController : Controller
         return CreatedAtAction(nameof(GetAll), new { id = productId }, productId);
     }
     
-    [HttpPut("{id}")]
+    [HttpPost("{id}")]
     public async Task<IActionResult> Update(Guid id, [FromBody] UpdateProductCommand command)
     {
         if (id != command.Id) return BadRequest("ID mismatch");

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.application\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|solutionrelative:productsmanagement.application\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.application\\handlers\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|solutionrelative:productsmanagement.application\\handlers\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.application\\eventhandlers\\productupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|solutionrelative:productsmanagement.application\\eventhandlers\\productupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4088AD95-5139-4453-B0DE-FEB838FDBD38}|ProductsManagement.Infrastructure\\ProductsManagement.Infrastructure.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4088AD95-5139-4453-B0DE-FEB838FDBD38}|ProductsManagement.Infrastructure\\ProductsManagement.Infrastructure.csproj|solutionrelative:productsmanagement.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.application\\handlers\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713E8EA6-82D4-4766-848C-9676F9DDB606}|ProductsManagement.Application\\ProductsManagement.Application.csproj|solutionrelative:productsmanagement.application\\handlers\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904689AA-24DB-4F34-A6B0-667FBD6AF716}|ProductsManagement.Domain\\ProductsManagement.Domain.csproj|c:\\users\\mohamed.labib\\onedrive - premium card\\desktop\\productsmanagement.api\\productsmanagement.api\\productsmanagement.domain\\events\\productupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904689AA-24DB-4F34-A6B0-667FBD6AF716}|ProductsManagement.Domain\\ProductsManagement.Domain.csproj|solutionrelative:productsmanagement.domain\\events\\productupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Application\\Handlers\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "ProductsManagement.Application\\Handlers\\RemoveProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:09:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Infrastructure\\Repositories\\ProductRepository.cs*",
+              "RelativeToolTip": "ProductsManagement.Infrastructure\\Repositories\\ProductRepository.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:05:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductUpdatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\EventHandlers\\ProductUpdatedEventHandler.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Application\\EventHandlers\\ProductUpdatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\EventHandlers\\ProductUpdatedEventHandler.cs",
+              "RelativeToolTip": "ProductsManagement.Application\\EventHandlers\\ProductUpdatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:05:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Domain\\Events\\ProductUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Domain\\Events\\ProductUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Domain\\Events\\ProductUpdatedEvent.cs",
+              "RelativeToolTip": "ProductsManagement.Domain\\Events\\ProductUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:04:18.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Application\\Handlers\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "ProductsManagement.Application\\Handlers\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:03:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\AddCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductsManagement.Application\\Handlers\\AddCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\mohamed.labib\\OneDrive - Premium Card\\Desktop\\ProductsManagement.API\\ProductsManagement.API\\ProductsManagement.Application\\Handlers\\AddCategoryCommandHandler.cs",
+              "RelativeToolTip": "ProductsManagement.Application\\Handlers\\AddCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:02:58.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

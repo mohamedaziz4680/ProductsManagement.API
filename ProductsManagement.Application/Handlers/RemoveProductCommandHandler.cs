@@ -23,7 +23,7 @@ public class RemoveProductCommandHandler : IRequestHandler<RemoveProductCommand>
         {
             await _productRepository.RemoveAsync(product);
             
-            var productUpdatedEvent = new ProductUpdatedEvent(product.Id, isAdded: false);
+            var productUpdatedEvent = new ProductUpdatedEvent(product.CategoryId, isAdded: false);
             await _mediator.Publish(productUpdatedEvent, cancellationToken);
         }
         return;

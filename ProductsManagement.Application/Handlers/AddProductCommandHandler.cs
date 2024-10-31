@@ -23,7 +23,7 @@ public class AddProductCommandHandler : IRequestHandler<AddProductCommand, Guid>
         await _productRepository.AddAsync(product);
         
         
-        var productUpdatedEvent = new ProductUpdatedEvent(product.Id, isAdded: true);
+        var productUpdatedEvent = new ProductUpdatedEvent(request.CategoryId, isAdded: true);
         await _mediator.Publish(productUpdatedEvent, cancellationToken);
         
         return product.Id;

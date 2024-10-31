@@ -22,7 +22,8 @@ public class GetProductsQueryHandler : IRequestHandler<GetProductsQuery, IEnumer
             Id = p.Id, 
             Name = p.Name, 
             Price = p.Price.Value, 
-            Currency = p.Price.Currency 
+            Currency = p.Price.Currency ,
+            CategoryId = p.CategoryId
         });
     }
 }

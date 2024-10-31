@@ -4,12 +4,12 @@ namespace ProductsManagement.Domain.Events;
 
 public class ProductUpdatedEvent : INotification
 {
-    public Guid ProductId { get; }
+    public Guid CategoryId { get; }
     public bool IsAdded { get; }
 
-    public ProductUpdatedEvent(Guid productId, bool isAdded)
+    public ProductUpdatedEvent(Guid categoryId, bool isAdded)
     {
-        ProductId = productId;
+        CategoryId = categoryId;
         IsAdded = isAdded;
     }
 }

@@ -22,7 +22,7 @@ public class ProductRepository : IProductRepository
         await _context.Products.AddAsync(product);
         await _context.SaveChangesAsync();
 
-        await _mediator.Publish(new ProductUpdatedEvent(product.Id, true));
+        //await _mediator.Publish(new ProductUpdatedEvent(product.Id, true));
     }
 
     public async Task<Product> GetByIdAsync(Guid id)

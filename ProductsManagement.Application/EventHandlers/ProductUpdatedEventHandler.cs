@@ -15,7 +15,7 @@ public class ProductUpdatedEventHandler : INotificationHandler<ProductUpdatedEve
 
     public async Task Handle(ProductUpdatedEvent notification, CancellationToken cancellationToken)
     {
-        var category = await _categoryRepository.GetByIdAsync(notification.ProductId);
+        var category = await _categoryRepository.GetByIdAsync(notification.CategoryId);
 
         if (notification.IsAdded)
             category.IncrementProductCount();
